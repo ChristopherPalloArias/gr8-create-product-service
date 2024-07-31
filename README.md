@@ -34,7 +34,7 @@ The `create-product-service` microservice is responsible for managing the list o
 
 ```sh
 https://github.com/ChristopherPalloArias/gr8-create-product-service.git
-cd list-user-service
+cd create-product-service
 ```
 
 ### Install Dependencies
